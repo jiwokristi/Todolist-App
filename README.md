@@ -35,7 +35,7 @@ Make sure you have [PostgreSQL](https://www.postgresql.org/download/) set up alr
 <br>
 
 ```json
-For Linux/MacOS change the "scripts" object in the package.json file from:
+For Linux/MacOS change the scripts object in the package.json file from:
 
 "scripts": {
     "start": "set PORT=3001 && react-scripts start",
