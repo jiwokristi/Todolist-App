@@ -4,7 +4,7 @@
 
 <br>
 
-<b>Todolist App</b> is a simple web app that features the <b>CRUD elements</b> which you can use to add and save to your to-do list, to mark them as finished, unfinished, or delete the said to-do.
+<b>Todolist App</b> is a simple web app that features the <b>CRUD operations</b> which you can use to save to your to-do list, to mark them as finished, unfinished, or delete the elements of the list.
 
 This app is created using:
 
